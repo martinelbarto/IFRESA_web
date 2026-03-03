@@ -4,9 +4,9 @@ export default function Footer() {
             <div className="container mx-auto px-4">
                 <div className="grid md:grid-cols-3 gap-8 mb-8">
                     <div>
-                        <h3 className="text-white text-lg font-bold mb-4">IFRESA</h3>
+                        <h3 className="text-white text-lg font-bold mb-4">INDAE</h3>
                         <p className="text-sm leading-relaxed text-gray-400">
-                            Industria Fueguina de Relojería Electrónica S.A.<br />
+                            Industria Austral de Electrónica S.A.<br />
                             Comprometidos con el desarrollo industrial de Tierra del Fuego.
                         </p>
                     </div>
@@ -16,7 +16,7 @@ export default function Footer() {
                             <li>Río Grande, Tierra del Fuego</li>
                             <li>Parque Industrial</li>
                             <li>Tel: +54 2964 XX-XXXX</li>
-                            <li>info@ifresa.com.ar</li>
+                            <li>info@indae.com.ar</li>
                         </ul>
                     </div>
                     <div>
@@ -29,7 +29,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="border-t border-gray-800 pt-8 text-center text-sm text-gray-500">
-                    <p>&copy; {new Date().getFullYear()} IFRESA. Todos los derechos reservados.</p>
+                    <p>&copy; {new Date().getFullYear()} INDAE. Todos los derechos reservados.</p>
                 </div>
             </div>
         </footer>
