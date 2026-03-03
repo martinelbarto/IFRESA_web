@@ -7,7 +7,7 @@ export default function About() {
                         <h2 className="text-3xl font-bold text-gray-900 mb-6">Nuestra Historia</h2>
                         <div className="space-y-4 text-gray-600 leading-relaxed">
                             <p>
-                                <strong>IFRESA</strong> (Industria Fueguina de Relojería Electrónica S.A.) es un pilar fundamental en la industria tecnológica argentina.
+                                <strong>INDAE</strong> (Industria Austral de Electronica S.A.) es un pilar fundamental en la industria tecnológica argentina.
                             </p>
                             <p>
                                 Como parte estratégica del <strong>Grupo KMG</strong>, hemos liderado procesos de reconversión tecnológica en Tierra del Fuego, adaptándonos a los desafíos del mercado global y manteniendo los más altos estándares de calidad.
