@@ -10,7 +10,7 @@ export default function About() {
                                 <strong>INDAE</strong> (Industria Austral de Electronica S.A.) es un pilar fundamental en la industria tecnológica argentina.
                             </p>
                             <p>
-                                Como parte estratégica del <strong>Grupo KMG</strong>, hemos liderado procesos de reconversión tecnológica en Tierra del Fuego, adaptándonos a los desafíos del mercado global y manteniendo los más altos estándares de calidad.
+                                Como parte estratégica del <strong>Grupo Ferrandi</strong>, hemos liderado procesos de reconversión tecnológica en Tierra del Fuego, adaptándonos a los desafíos del mercado global y manteniendo los más altos estándares de calidad.
                             </p>
                             <p>
                                 Desde nuestra planta en Río Grande, combinamos experiencia productiva con innovación constante, fabricando productos que conectan y entretienen a millones de argentinos.
